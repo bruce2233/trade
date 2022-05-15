@@ -1,14 +1,21 @@
 package order
 
 type Order struct {
-	amount int
-	price  float64
+	tokenID uint64
+	amount uint64
 }
 
-type BuyOrder struct{
+type LimitOrder struct{
+	Order
+	price uint64
+}
+type BuyOrder struct {
 	Order
 }
 
-type SellOrder struct{
+type SellOrder struct {
 	Order
+}
+type MarketOrder struct{
+	
 }
