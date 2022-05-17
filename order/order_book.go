@@ -1,12 +1,19 @@
 package order
 
-type IOrderBook interface{
-	AddSellOrder(order Order)
-	RemoveSellOrder(order Order)
-	AddBugOrder()
+import "fmt"
+
+type IOrderBook interface {
+	AddSellOrder(order IOrder)
+	RemoveSellOrder(order IOrder)
+	AddBuyOrder(order IOrder)
+	RemoveBuyOrder(order IOrder)
 }
 
 type OrderBook struct {
-	SellOrders []Order
-	BuyOrders  []Order
+	SellOrders []IOrder
+	BuyOrders  []IOrder
+}
+
+func match(sellOrder ISellOrder) {
+	fmt.Println("match sellOrder")
 }
