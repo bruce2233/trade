@@ -1,9 +1,9 @@
 package main
 
 import (
-	"trade/server"
+	"trade/proxy"
 )
 
 func main() {
-	server.Start()
+	proxy.Start()
 }
