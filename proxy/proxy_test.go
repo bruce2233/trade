@@ -1,9 +1,8 @@
 package proxy
 
 import (
-	"bufio"
+	"io/ioutil"
 	"net"
-	"net/http"
 	"testing"
 )
 
@@ -23,18 +22,26 @@ func TestClient(t *testing.T) {
 }
 
 func TestHttp(t *testing.T) {
-	l, err := net.Listen("tcp", ":996")
+	// l, err := net.Listen("tcp", ":996")
+	// if err != nil {
+	// 	t.Log(err)
+	// }
+
+	// conn, err := l.Accept()
+	// bufReader := bufio.NewReader(conn)
+	// req, err := http.ReadRequest(bufReader)
+	// t.Log(req)
+
+	// client := &http.Client{}
+	// resp, _ := client.Get(req.URL)
+	// resp.Write(conn)
+	// t.Log(resp)
+}
+
+func TestFilePath(t *testing.T) {
+	b, err := ioutil.ReadFile("server.key")
 	if err != nil {
-		t.Log(err)
+		t.Log("file error")
 	}
-
-	conn, err := l.Accept()
-	bufReader := bufio.NewReader(conn)
-	req, err := http.ReadRequest(bufReader)
-	t.Log(req)
-
-	client := &http.Client{}
-	resp, _ := client.Get(req.URL)
-	resp.Write(conn)
-	t.Log(resp)
+	t.Log(string(b))
 }
