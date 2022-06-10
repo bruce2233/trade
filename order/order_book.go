@@ -14,6 +14,8 @@ type OrderBook struct {
 	BuyOrders  []IOrder
 }
 
-func match(sellOrder ISellOrder) {
+func match(orderBook OrderBook, order IOrder) {
+	
 	fmt.Println("match sellOrder")
 }
+
