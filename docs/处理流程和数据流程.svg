@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 整体数据流图.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st11">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st3 {fill:#5b9bd5;stroke:#c7c8c8;stroke-width:0.25}
+		.st4 {fill:#feffff;font-family:黑体;font-size:2.50001em}
+		.st5 {fill:#feffff;font-family:Calibri;font-size:2.50001em}
+		.st6 {font-family:黑体;font-size:1em}
+		.st7 {font-family:Calibri;font-size:1em}
+		.st8 {font-size:1em}
+		.st9 {marker-end:url(#mrkr4-41);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st10 {fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st11 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-41" class="st10" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(70.8661,-297.638)">
+			<title>矩形</title>
+			<desc>用户</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<g id="shadow1-2" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="510.236" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st3"/>
+			<text x="26.69" y="562.74" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>用户</text>		</g>
+		<g id="shape2-7" v:mID="2" v:groupContext="shape" transform="translate(453.543,-297.638)">
+			<title>矩形.2</title>
+			<desc>钱包</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<g id="shadow2-8" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="510.236" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st3"/>
+			<text x="26.69" y="562.74" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>钱包</text>		</g>
+		<g id="shape3-13" v:mID="3" v:groupContext="shape" transform="translate(657.283,-297.638)">
+			<title>矩形.3</title>
+			<desc>Redis数据库</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<g id="shadow3-14" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="510.236" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st3"/>
+			<text x="8.89" y="542.77" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Redis<tspan
+						class="st6">数</tspan><tspan x="26.69" dy="1.331em" class="st6">据库</tspan></text>		</g>
+		<g id="shape4-21" v:mID="4" v:groupContext="shape" transform="translate(255.118,-425.197)">
+			<title>矩形.4</title>
+			<desc>充值/提现</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<g id="shadow4-22" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="510.236" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st3"/>
+			<text x="5.9" y="542.77" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>充值<tspan class="st7">/</tspan>提<tspan
+						x="41.69" dy="1.331em" class="st8">现</tspan></text>		</g>
+		<g id="shape5-29" v:mID="5" v:groupContext="shape" transform="translate(255.118,-191.339)">
+			<title>矩形.5</title>
+			<desc>委托订单</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<g id="shadow5-30" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="510.236" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st3"/>
+			<text x="11.69" y="541.79" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>委托订<tspan x="41.69"
+						dy="1.298em" class="st8">单</tspan></text>		</g>
+		<g id="shape6-36" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(127.559,-382.677)">
+			<title>动态连接线</title>
+			<path d="M0 595.28 L0 510.24 L120.52 510.24" class="st9"/>
+		</g>
+		<g id="shape7-42" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(127.559,-297.638)">
+			<title>动态连接线.7</title>
+			<path d="M0 595.28 L0 659.06 L120.52 659.06" class="st9"/>
+		</g>
+		<g id="shape9-47" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(311.811,-276.378)">
+			<title>动态连接线.9</title>
+			<path d="M0 595.28 L0 531.5 L134.69 531.5" class="st9"/>
+		</g>
+		<g id="shape10-52" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(311.811,-425.197)">
+			<title>动态连接线.10</title>
+			<path d="M0 595.28 L0 680.31 L134.69 680.31" class="st9"/>
+		</g>
+		<g id="shape11-57" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(566.929,-333.071)">
+			<title>动态连接线.11</title>
+			<path d="M0 588.19 L83.31 588.19" class="st9"/>
+		</g>
+		<g id="shape12-62" v:mID="12" v:groupContext="shape" transform="translate(453.543,-191.339)">
+			<title>矩形.12</title>
+			<desc>订单表</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<g id="shadow12-63" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="510.236" width="113.386" height="85.0394" class="st2"/>
+			</g>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st3"/>
+			<text x="11.69" y="562.74" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>订单表</text>		</g>
+		<g id="shape13-68" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(368.504,-226.772)">
+			<title>动态连接线.13</title>
+			<path d="M0 588.19 L78 588.19" class="st9"/>
+		</g>
+		<g id="shape14-73" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(566.929,-233.858)">
+			<title>动态连接线.14</title>
+			<path d="M0 595.28 L147.05 595.28 L147.05 538.54" class="st9"/>
+		</g>
+	</g>
+</svg>
