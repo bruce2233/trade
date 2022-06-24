@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 用户交易用例图.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:prompt="" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#d80073;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#d80073;font-family:黑体;font-size:1.00001em}
+		.st3 {font-family:Segoe UI;font-size:1em}
+		.st4 {fill:#1ba1e2;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st5 {fill:#ffffff;font-family:黑体;font-size:1.00001em}
+		.st6 {stroke:#1897d5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+			<v:ud v:nameU="visNavType" v:val="VT0(1):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape94-1" v:mID="94" v:groupContext="shape" transform="translate(132.085,-352.293)">
+			<title>Actor</title>
+			<desc>用户1</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(500):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="607.08" width="41.76" height="23.608"/>
+			<path d="M6.8 595.28 L6.8 559.84 L6.8 574.02 L0 574.02 L0 545.67 L3.4 542.13 L30.61 542.13 L34.02 545.67 L34.02 574.02
+						 L27.21 574.02 L27.21 559.84 L27.21 595.28 L17.01 595.28 L17.01 566.93 L17.01 595.28 L6.8 595.28 ZM24.09
+						 531.5 A7.08661 7.08661 -180 1 0 9.92 531.5 A7.08661 7.08661 -180 1 0 24.09 531.5 Z" class="st1"/>
+			<text x="1.77" y="610.98" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>用户<tspan class="st3">1</tspan></text>		</g>
+		<g id="shape124-5" v:mID="124" v:groupContext="shape" transform="translate(236.876,-510.785)">
+			<title>Use Case.124</title>
+			<desc>流水账单</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(875):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st4"/>
+			<text x="32.69" y="582.17" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>流水账单</text>		</g>
+		<g id="shape126-8" v:mID="126" v:groupContext="shape" transform="translate(255.118,-240.945)">
+			<title>Use Case.126</title>
+			<desc>币币交易</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(992):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st4"/>
+			<text x="32.69" y="582.17" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>币币交易</text>		</g>
+		<g id="shape128-11" v:mID="128" v:groupContext="shape" transform="translate(293.111,-370.718)">
+			<title>Use Case.128</title>
+			<desc>资产管理</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(968):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st4"/>
+			<text x="32.69" y="582.17" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>资产管理</text>		</g>
+		<g id="shape133-14" v:mID="133" v:groupContext="shape" v:layerMember="0" transform="translate(164.95,-403.099)">
+			<title>动态连接线.133</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(750):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L111.86 486.83" class="st6"/>
+		</g>
+		<g id="shape134-17" v:mID="134" v:groupContext="shape" v:layerMember="0" transform="translate(166.101,-380.64)">
+			<title>动态连接线.134</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(937):26"/>
+			</v:userDefs>
+			<path d="M0 588.19 L127.01 588.19" class="st6"/>
+		</g>
+		<g id="shape135-20" v:mID="135" v:groupContext="shape" v:layerMember="0" transform="translate(166.101,-374.162)">
+			<title>动态连接线.135</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(984):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L125.75 695.57" class="st6"/>
+		</g>
+		<g id="shape136-23" v:mID="136" v:groupContext="shape" transform="translate(132.085,-99.2126)">
+			<title>Actor.136</title>
+			<desc>用户 2</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(1992):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="607.08" width="45.05" height="23.608"/>
+			<path d="M6.8 595.28 L6.8 559.84 L6.8 574.02 L0 574.02 L0 545.67 L3.4 542.13 L30.61 542.13 L34.02 545.67 L34.02 574.02
+						 L27.21 574.02 L27.21 559.84 L27.21 595.28 L17.01 595.28 L17.01 566.93 L17.01 595.28 L6.8 595.28 ZM24.09
+						 531.5 A7.08661 7.08661 -180 1 0 9.92 531.5 A7.08661 7.08661 -180 1 0 24.09 531.5 Z" class="st1"/>
+			<text x="0.13" y="610.98" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>用户<tspan class="st3"> </tspan><tspan
+						class="st3">2</tspan></text>		</g>
+		<g id="shape141-28" v:mID="141" v:groupContext="shape" v:layerMember="0" transform="translate(290.943,-242.139)">
+			<title>动态连接线</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(2992):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L-124.84 689.88" class="st6"/>
+		</g>
+		<g id="shape143-31" v:mID="143" v:groupContext="shape" v:layerMember="0" transform="translate(368.504,-250.866)">
+			<title>动态连接线.143</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(4992):26"/>
+			</v:userDefs>
+			<path d="M0 588.19 L72 588.19" class="st6"/>
+		</g>
+		<g id="shape142-34" v:mID="142" v:groupContext="shape" transform="translate(440.504,-240.945)">
+			<title>用例</title>
+			<desc>限价委托</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(3992):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st4"/>
+			<text x="32.69" y="582.17" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>限价委托</text>		</g>
+		<g id="shape145-37" v:mID="145" v:groupContext="shape" v:layerMember="0" transform="translate(338.371,-242.927)">
+			<title>动态连接线.145</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(6992):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L132.27 670.11" class="st6"/>
+		</g>
+		<g id="shape144-40" v:mID="144" v:groupContext="shape" transform="translate(440.504,-136.063)">
+			<title>用例.144</title>
+			<desc>市价委托</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(5992):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st4"/>
+			<text x="32.69" y="582.17" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>市价委托</text>		</g>
+		<g id="shape147-43" v:mID="147" v:groupContext="shape" v:layerMember="0" transform="translate(392.415,-398.945)">
+			<title>动态连接线.147</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(8992):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L100.16 568.9" class="st6"/>
+		</g>
+		<g id="shape146-46" v:mID="146" v:groupContext="shape" transform="translate(478.497,-419.528)">
+			<title>用例.146</title>
+			<desc>链上充值/提现</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(7992):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st4"/>
+			<text x="18.35" y="582.17" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>链上充值<tspan
+						class="st3">/</tspan>提现</text>		</g>
+		<g id="shape150-50" v:mID="150" v:groupContext="shape" v:layerMember="0" transform="translate(396.081,-377.901)">
+			<title>动态连接线.150</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(10992):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L95.38 615.52" class="st6"/>
+		</g>
+		<g id="shape149-53" v:mID="149" v:groupContext="shape" transform="translate(478.497,-330.236)">
+			<title>用例.149</title>
+			<desc>交易所内部充值/提现</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(9992):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="61.9837" cy="578.268" width="123.97" height="34.0157"/>
+			<ellipse cx="61.9837" cy="578.268" rx="61.9837" ry="17.0079" class="st4"/>
+			<text x="5.65" y="582.17" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>交易所内部充值<tspan
+						class="st3">/</tspan>提现</text>		</g>
+	</g>
+</svg>
